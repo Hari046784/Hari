@@ -4,7 +4,7 @@
 <h3 align="center">An enthusiastic full-stack web developer hailing from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-<h2><a href="https://hariportfolio.netlify.app/" target="_blank">My Portfolio website - click here</a></h2>
+<h2><a href="https:" target="_blank">My Portfolio website - click here</a></h2>
 
 
 - 🌱Now I'm currently pursuing Full Stack Web Development (MERN Stack).
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/haridass-m-a7010a156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/haridassMurugan1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faceBook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hari_livi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/haridass-m-a7010a156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a> -->
+<!-- <a href="https://www.facebook.com/haridassMurugan1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faceBook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hari_livi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +29,7 @@
 <a href="https://github.com/HaridassMurugan" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github" width="40" height="40"/> </a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaridassMurugan&show_icons=true&locale=en&layout=compact" alt="HaridassMurugan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaridassMurugan&show_icons=true&locale=en&layout=compact" alt="Hari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaridassMurugan&show_icons=true&locale=en" alt="HaridassMurugan" /></p>
 
